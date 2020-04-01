@@ -1,0 +1,2 @@
+This is a simple PID line trace program with 2 EV3 color sensors.
+note: kp, ki, kd will vary depending on your robot
